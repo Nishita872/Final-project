@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "711828091756",
+    "project_id": "broiler-farm-automation-system",
+    "storage_bucket": "broiler-farm-automation-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711828091756:android:eb8783db5d403ea787b949",
+        "android_client_info": {
+          "package_name": "tarmsbd.iot.automation.broilerfirm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711828091756-ev9k192r80jcdu24p3e6jdc3hv8e8c1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtY1B2us5QmTHXl3ucyS-LLlP7CrJU7oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711828091756-ev9k192r80jcdu24p3e6jdc3hv8e8c1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
